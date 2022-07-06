@@ -1,13 +1,14 @@
-package src;
+package desafio_2.Exercicio_Listas_Comparator.src;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-import src.models.Empregado;
-import src.models.Empresa;
-import src.service.MyOwnLists;
-import src.service.meuComparador;
+import desafio_2.Exercicio_Listas_Comparator.src.models.Empregado;
+import desafio_2.Exercicio_Listas_Comparator.src.models.Empresa;
+import desafio_2.Exercicio_Listas_Comparator.src.service.MyOwnLists;
+import desafio_2.Exercicio_Listas_Comparator.src.service.meuComparador;
+
 
 public class App {
     public static void main(String[] args) {

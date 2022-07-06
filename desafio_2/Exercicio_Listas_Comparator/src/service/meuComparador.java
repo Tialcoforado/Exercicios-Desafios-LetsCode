@@ -1,8 +1,10 @@
-package src.service;
+package desafio_2.Exercicio_Listas_Comparator.src.service;
+
 import java.util.Comparator;
 
-import src.models.Empregado;
-import src.models.Empresa;
+import desafio_2.Exercicio_Listas_Comparator.src.models.Empregado;
+import desafio_2.Exercicio_Listas_Comparator.src.models.Empresa;
+
 
 public class meuComparador<T> implements Comparator<T> {
 
