@@ -1,0 +1,4 @@
+tomate=300
+melao=80
+laranja=140
+desperdicio=6

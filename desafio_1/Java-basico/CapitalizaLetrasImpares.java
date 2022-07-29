@@ -1,4 +1,4 @@
-package exercíciosPrimeiraSemana;
+
 
 import java.util.Scanner;
 
